@@ -1,6 +1,6 @@
 import React from 'react';
 import Player from './Player';
-import players from './players';
+import players from '../players';
 
 const PlayersList = () => {
   return (

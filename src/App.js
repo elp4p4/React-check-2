@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import PlayersList from './PlayersList';
+import PlayersList from './components/PlayersList';
 
 function App() {
   return (
