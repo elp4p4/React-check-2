@@ -1,0 +1,7 @@
+.App {
+  background-image: url('https://img.freepik.com/free-photo/soccer-players-action-professional-stadium_654080-1820.jpg?semt=ais_hybridhttps://img.freepik.com/premium-photo/grassy-football-pitch-stadium-sunny-day-with-blue-sky_1188894-12289.jpg?semt=ais_hybrid'); /* Or your image URL */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  padding: 20px;
+}
